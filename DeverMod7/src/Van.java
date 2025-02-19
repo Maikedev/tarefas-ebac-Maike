@@ -33,7 +33,7 @@ public class Van {
             System.out.printf("Temos %d acentos vagos na van.", qtd2);
         }
         else{
-            System.out.println("Todos os lugares da van estão ocupados");
+            System.out.println("Todos os acentos da van estão ocupados");
         }
         return 0;
     }
